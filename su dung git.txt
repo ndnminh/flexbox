@@ -1,0 +1,7 @@
+git init (khoi tao)
+ 
+git add . (add file)
+
+git commit -m "cho nay ghi chu"
+
+git push (day len git)
